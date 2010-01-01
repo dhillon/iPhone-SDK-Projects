@@ -1,0 +1,167 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* NSTimerNavigationControllerAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 418}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 500}";
+		};
+	};
+	1D3623250D0F684500981E51 /* NSTimerNavigationControllerAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 560}}";
+			sepNavSelRange = "{265, 0}";
+			sepNavVisRange = "{0, 721}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* NSTimerNavigationController */ = {
+		activeExec = 0;
+		executables = (
+			A99A056610ED780C006ECEBB /* NSTimerNavigationController */,
+		);
+	};
+	28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 418}}";
+			sepNavSelRange = "{262, 0}";
+			sepNavVisRange = "{0, 269}";
+		};
+	};
+	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 490}}";
+			sepNavSelRange = "{469, 43}";
+			sepNavVisRange = "{0, 561}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = A99A056610ED780C006ECEBB /* NSTimerNavigationController */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* NSTimerNavigationController */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* NSTimerNavigationController */,
+		);
+		codeSenseManager = A99A058310ED781A006ECEBB /* Code sense */;
+		executables = (
+			A99A056610ED780C006ECEBB /* NSTimerNavigationController */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 283998221;
+			PBXWorkspaceStateSaveDate = 283998221;
+		};
+		perUserProjectItems = {
+			A99A057010ED7819006ECEBB /* PBXTextBookmark */ = A99A057010ED7819006ECEBB /* PBXTextBookmark */;
+			A99A057110ED7819006ECEBB /* PBXBookmark */ = A99A057110ED7819006ECEBB /* PBXBookmark */;
+			A99A057210ED7819006ECEBB /* PBXTextBookmark */ = A99A057210ED7819006ECEBB /* PBXTextBookmark */;
+			A99A057310ED7819006ECEBB /* PBXTextBookmark */ = A99A057310ED7819006ECEBB /* PBXTextBookmark */;
+		};
+		sourceControlManager = A99A058210ED781A006ECEBB /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	A99A056610ED780C006ECEBB /* NSTimerNavigationController */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = NSTimerNavigationController;
+		sourceDirectories = (
+		);
+	};
+	A99A057010ED7819006ECEBB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* NSTimerNavigationControllerAppDelegate.h */;
+		name = "NSTimerNavigationControllerAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 499;
+		vrLoc = 0;
+	};
+	A99A057110ED7819006ECEBB /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NSTimerNavigationControllerAppDelegate.m */;
+	};
+	A99A057210ED7819006ECEBB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* NSTimerNavigationControllerAppDelegate.h */;
+		name = "NSTimerNavigationControllerAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 499;
+		vrLoc = 0;
+	};
+	A99A057310ED7819006ECEBB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NSTimerNavigationControllerAppDelegate.m */;
+		name = "NSTimerNavigationControllerAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 380;
+		vrLoc = 0;
+	};
+	A99A058210ED781A006ECEBB /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	A99A058310ED781A006ECEBB /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	A99A058710ED78E6006ECEBB /* NSTimerViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 418}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 256}";
+		};
+	};
+	A99A058810ED78E6006ECEBB /* NSTimerViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 812}}";
+			sepNavSelRange = "{800, 0}";
+			sepNavVisRange = "{379, 809}";
+		};
+	};
+}
