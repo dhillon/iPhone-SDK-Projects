@@ -22,9 +22,9 @@
 }
 
 - (void)synchronousMethod {
-	// invalidate the timer if we are no longer visible
+	// invalidate the timer if we are no longer in the view controller stack
 	// this will release the target therefore allowing this view controller to dealloc, viewDidUnload, viewWillDisappear, etc.
-	if(![self.navigationController.topViewController isEqual:self]) {
+	if(![self.navigationController.viewControllers containsObject:self]) {
 		[self.timer invalidate];
 		return;
 	}

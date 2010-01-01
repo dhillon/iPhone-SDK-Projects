@@ -9,9 +9,9 @@
 	};
 	1D3623250D0F684500981E51 /* NSTimerNavigationControllerAppDelegate.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {519, 560}}";
-			sepNavSelRange = "{265, 0}";
-			sepNavVisRange = "{0, 721}";
+			sepNavIntBoundsRect = "{{0, 0}, {519, 602}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 430}";
 		};
 	};
 	1D6058900D05DD3D006BFB54 /* NSTimerNavigationController */ = {
@@ -29,9 +29,9 @@
 	};
 	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {519, 490}}";
-			sepNavSelRange = "{469, 43}";
-			sepNavVisRange = "{0, 561}";
+			sepNavIntBoundsRect = "{{0, 0}, {519, 546}}";
+			sepNavSelRange = "{760, 0}";
+			sepNavVisRange = "{427, 418}";
 		};
 	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
@@ -68,14 +68,14 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 283998221;
-			PBXWorkspaceStateSaveDate = 283998221;
+			PBXPerProjectTemplateStateSaveDate = 284001039;
+			PBXWorkspaceStateSaveDate = 284001039;
 		};
 		perUserProjectItems = {
-			A99A057010ED7819006ECEBB /* PBXTextBookmark */ = A99A057010ED7819006ECEBB /* PBXTextBookmark */;
-			A99A057110ED7819006ECEBB /* PBXBookmark */ = A99A057110ED7819006ECEBB /* PBXBookmark */;
-			A99A057210ED7819006ECEBB /* PBXTextBookmark */ = A99A057210ED7819006ECEBB /* PBXTextBookmark */;
-			A99A057310ED7819006ECEBB /* PBXTextBookmark */ = A99A057310ED7819006ECEBB /* PBXTextBookmark */;
+			A99A057010ED7819006ECEBB = A99A057010ED7819006ECEBB /* PBXTextBookmark */;
+			A99A057110ED7819006ECEBB = A99A057110ED7819006ECEBB /* PBXBookmark */;
+			A99A057210ED7819006ECEBB = A99A057210ED7819006ECEBB /* PBXTextBookmark */;
+			A99A057310ED7819006ECEBB = A99A057310ED7819006ECEBB /* PBXTextBookmark */;
 		};
 		sourceControlManager = A99A058210ED781A006ECEBB /* Source Control */;
 		userBuildSettings = {
